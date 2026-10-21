@@ -1,6 +1,6 @@
 # rCTOOL documentation website
 
-Documentation for **rCTOOL 3.1.0**, built with pkgdown and published at **https://ehfmsilva.github.io/rCTOOL/**.
+Documentation for **rCTOOL 3.1.0**, built with pkgdown and configured for publication at **https://ehfmsilva.github.io/rCTOOL/**.
 
 The website follows the documentation layout of the paar package and uses the supplied rCTOOL logo. It includes installation instructions, three executed tutorials, function documentation, citations, and site search.
 
